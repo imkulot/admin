@@ -213,6 +213,9 @@
                 </li>
             </ul>
             </nav>
+            <li class= "d-sm-inline-block">
+               <div class="wrapper-content">heyy</div>
+            </li>
             <!-- /.navbar -->
 
 </body>
