@@ -219,9 +219,10 @@
             <!-- /.navbar -->
 
     <!-- chart -->
-        <div class="container mt-5">
+        <div class="content-wrapper">
             <canvas id="myChart" width="300" height="200"></canvas>
         </div>
+
     <!-- Add the JavaScript code for the chart -->
     <script>
         // Sample data for the bar chart
